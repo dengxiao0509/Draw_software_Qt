@@ -1,0 +1,38 @@
+NOM et PRENOM:  DENG Xiao
+
+Dans ce tp, j'ai finit tous les etapes et les functions demandees, sauf la derniere etape(12e etape: creer un menu circulaire).
+
+------------------------------------------------
+FONCTIONS ET SPECIFICATIONS:
+
+1.On peux tracer plusieurs traits.
+
+2.On peut choisir le couleur, l'epaisseur, le style de pen dans le dockwidget a gauche ou dans le menu 'Pen setting'.
+
+3.On peut choisir le forme geometrique a dessiner(ligne,rectangle,ellipse et polygone) dans le dockwidget a gauche ou dans le menu 'Shape setting'.
+
+Pour dessiner un polygone:
+- Appuyez le button de souris a gauche sur le zone de dessin pour commencer;
+- Bougez le souris pour dessiner la premiere ligne, et le relachez pour finir;
+- Appuyez le button de souris a gauche ailleur pour dessiner la deuxieme ligne, bougez le souris pour le modifier et relachez le souris pour finir.
+- Pour finir dessiner un polygone, appuyez sur le button de souris a droite.
+
+4.On peut 'save' et 'open' un ficher (en type '.txt' ,c'est obligatoire) en appuyant sur les buttons 'open' et 'save' dans le toolbar ou dans le menu 'File'. Et on peux modifier encore les formes geometriques lus depuis un fichier.
+
+5.On peut selectionner un forme geometrique deja cree et puis le deplacer ou changer le couleur, l'epaisseur et le style de lui.
+
+- Il faut d'abord appuyer le button 'select' dans le toolbar;
+- Cliquez a l'interieur de forme cible ou dessinez un rectangle qui a une intersection avec celui-la; 
+- Changez les attributs en cliquant sur les differents buttons(color,width,style);
+- Deplacez le forme geometrique selectionne en appuyant le button de souris a gauche et puis on peut le deplacer, relachez le button pour finir cette action.
+- Appuyez sur le button de souris a droite pour quitter l'etat de selection.
+- Pendent tous les etapes precedentes, on peut appuyer sur le button 'select' pour commencer une nouvelle selection. 
+
+Attention: Il faut quitter la selection presente(appuyer sur le button de souris a droite) ou appuyer une autre fois sur le button'select' pour faire une nouvelle selection. 
+
+6.On peut effacer le derniere 'path' que on a dessine en appuyant sur le button 'back' dans le toolbar. Et on peut effacer tous en utilisant le button 'clear' dans le toolbar ou dans le menu 'Tools'.
+
+7.Pour quitter l'application, appuyez sur le button 'quit' dans le toolbar ou dans le menu 'File' ou cliquez la croix a gauche en haut. Et il faut conformer avant de quitter. 
+  
+
+

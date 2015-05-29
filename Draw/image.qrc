@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/save.png</file>
+        <file>images/quit.png</file>
+        <file>images/paste.png</file>
+        <file>images/open.png</file>
+        <file>images/new.png</file>
+        <file>images/cut.png</file>
+        <file>images/copy.png</file>
+        <file>images/w_5.png</file>
+        <file>images/w_3.png</file>
+        <file>images/w_1.png</file>
+        <file>images/rec.png</file>
+        <file>images/polygone.png</file>
+        <file>images/ellip.png</file>
+        <file>images/clear.png</file>
+        <file>images/back.png.jpg</file>
+        <file>images/line.png</file>
+    </qresource>
+</RCC>
